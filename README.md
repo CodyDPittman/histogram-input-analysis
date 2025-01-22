@@ -1,0 +1,1 @@
+This project created an input analysis program using the OpenGL library. The program was to utilize histograms and theoretical probability density functions to represent various existing input data. The visualizations generated were all 2 dimensional. Users can use menu select options to change the data displayed on the graph.
